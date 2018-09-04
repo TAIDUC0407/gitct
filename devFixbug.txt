@@ -4,4 +4,8 @@ fix bug 1 of dev 1
 
 add from dev1
 
+<<<<<<< HEAD
 fix bug 1 of dev 3
+=======
+add from dev4
+>>>>>>> origin/dev4
