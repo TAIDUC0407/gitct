@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-commit new off master2222222222111111111111
-=======
-commit new off master111111111
-
-tôi đã thay đổi và cần lưu lại
->>>>>>> 3053e657d2355963e5d09d0ea18fa7d70aae92f2
